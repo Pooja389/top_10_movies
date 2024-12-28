@@ -34,4 +34,4 @@ A web application built with Flask that allows users to manage their own movie d
    ```bash
    pip install -r requirements.txt
    ```
-7. press ctrl+click on http://127.0.0.1:5000   
+7. press ctrl+click on http://127.0.0.1:5000 in your terminal  
