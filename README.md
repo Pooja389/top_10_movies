@@ -27,10 +27,10 @@ A web application built with Flask that allows users to manage their own movie d
    ```bash
    venv\Scripts\activate
    ```     
-5. Run the application
+5. Install dependencies
    ```bash
    pip install -r requirements.txt
-6. Installing dependencies
+6. run the application
    ```bash
    python main.py
    ```
