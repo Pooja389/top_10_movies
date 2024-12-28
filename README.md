@@ -29,9 +29,9 @@ A web application built with Flask that allows users to manage their own movie d
    ```     
 5. Run the application
    ```bash
-   python main.py
+   pip install -r requirements.txt
 6. Installing dependencies
    ```bash
-   pip install -r requirements.txt
+   python main.py
    ```
 7. press ctrl+click on http://127.0.0.1:5000 in your terminal  
