@@ -20,7 +20,14 @@ A web application built with Flask that allows users to manage their own movie d
    ```bash
    cd top_10_movies
    ```
-3. Run the application
+3. create virtual environment
+   ```bash
+   python -m venv venv
+   ```
+   ```bash
+   venv\Scripts\activate
+   ```     
+5. Run the application
    ```bash
    python main.py
-4. press ctrl+click on http://127.0.0.1:5000   
+6. press ctrl+click on http://127.0.0.1:5000   
